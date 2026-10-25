@@ -1,0 +1,14 @@
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+# IDE / OS
+.vscode/
+.idea/
+.vs/
+.DS_Store
+Thumbs.db
+~$*
+*.suo
+*.user
